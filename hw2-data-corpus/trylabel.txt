@@ -1,0 +1,5 @@
+0117CBUj98k8MKQp8svI deceptive positive
+02GRaAeUBioqRjtkICm3 truthful positive
+02kds25RFtpa6DJL21y6 truthful positive
+02kds25RFtpa6DJL22y6 deceptive negative
+02kds25RFtpa6DJL24y6 truthful negative
