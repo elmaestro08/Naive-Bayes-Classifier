@@ -1,6 +1,8 @@
 # Naive-Bayes-Classifier
 File nblearn.py will learn a naive Bayes model from the training data, and nbclassify.py will use the model to classify new data.
+
 python nblearn.py /path/to/text/file /path/to/label/file
+
 The arguments are the two training files; the program will learn a naive Bayes model, and write the model parameters to a file called nbmodel.txt. 
 
 The classification program will be invoked in the following way:
